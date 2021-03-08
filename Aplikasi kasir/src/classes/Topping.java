@@ -14,7 +14,7 @@ public class Topping extends Menu {
     public Topping(String nama_topping, double harga) { 
         setNama_menu(nama_topping);
         setHarga(harga);
-        setKategori("topping");
+        setKategori("Topping");
     }
     
 }

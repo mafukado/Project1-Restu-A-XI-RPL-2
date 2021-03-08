@@ -7,7 +7,7 @@ package classes;
 import java.util.ArrayList;
 
 public class DaftarMenu {
-       private final ArrayList<Menu> daftarMenu;
+       private ArrayList<Menu> daftarMenu;
        
        public DaftarMenu() {
            daftarMenu = new ArrayList<>();
